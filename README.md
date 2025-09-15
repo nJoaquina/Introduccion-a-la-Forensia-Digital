@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/fairyland0926">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Introducción+a+la+Forensia+Digital&font=Courier+New&center=true&width=800&height=100&color=00FF00&vCenter=true&size=45&pause=10000&repeat=false">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Introducción+a+la+Forensia+Digital&font=Courier+New&center=true&width=1000&height=120&color=00FF00&vCenter=true&size=45&pause=10000&repeat=false">
   </a>
 </p>
 
